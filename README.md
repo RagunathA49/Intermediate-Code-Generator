@@ -1,4 +1,4 @@
 # Intermediate-Code-Generator
 
-![Getting Started](../images/intercode/img1.jpeg)
+!<img src="../images/intercode/img1.jpeg" alt="Getting started" />
 ![Getting Started](../images/intercode/img2.jpeg)
